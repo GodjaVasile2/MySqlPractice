@@ -50,7 +50,7 @@ BEGIN
     SET 
 		payment_total = (payment_total + p_payment_amount),
         payment_date = p_payment_date
-	WHERE invoice_id = p_invoice_id; -
+	WHERE invoice_id = p_invoice_id; 
 END$$
 
 -- Procedure 4: Get Unpaid Invoices and Total Sum for a Client
