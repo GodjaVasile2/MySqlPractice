@@ -1,6 +1,6 @@
 # MySQL Practice Repository
 
-Welcome to the MySQL Practice repository! This collection of SQL files offers practical exercises and queries performed on four databases. The database design and initial data inserts are inspired by the Code with Mose course, providing a solid foundation.
+Welcome to the MySQL Practice repository! This collection of SQL files offers practical exercises and queries performed on four databases. The database design and initial data inserts are inspired by the CodewithMosh course, providing a solid foundation.
 
 ## Contents
 
